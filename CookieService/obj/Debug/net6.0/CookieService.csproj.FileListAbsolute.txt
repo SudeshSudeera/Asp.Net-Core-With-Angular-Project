@@ -1,0 +1,15 @@
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\bin\Debug\net6.0\CookieService.deps.json
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\bin\Debug\net6.0\CookieService.dll
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\bin\Debug\net6.0\CookieService.pdb
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\bin\Debug\net6.0\LoggingService.dll
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\bin\Debug\net6.0\LoggingService.pdb
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.csproj.AssemblyReference.cache
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.AssemblyInfoInputs.cache
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.AssemblyInfo.cs
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.csproj.CoreCompileInputs.cache
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.csproj.CopyComplete
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.dll
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\refint\CookieService.dll
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\CookieService.pdb
+C:\Users\SudeshSudeera\Documents\Full Stack Project\CookieService\obj\Debug\net6.0\ref\CookieService.dll

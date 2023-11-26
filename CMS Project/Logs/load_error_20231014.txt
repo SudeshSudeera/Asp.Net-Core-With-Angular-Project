@@ -1,0 +1,48 @@
+-------------------------------------------------
+Timestamp - 2023-10-14 10:20:48 PM +05:30 | Level - Error |
+-------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_Project.Program.Main(String[] args) in C:\Users\SudeshSudeera\Documents\Full Stack Project\CMS Project\Program.cs:line 22"
+InnerException : null
+Source : "CMS Project"
+Application : "CMS_Project"
+MachineName : "DESKTOP-468MOP7"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.19045.0"
+Version : "6.0.22"
+UserName : "SudeshSudeera"
+ProcessId : 9264
+ProcessName : "CMS Project"
+-------------------------------------------------
+-------------------------------------------------
+Timestamp - 2023-10-14 10:21:11 PM +05:30 | Level - Error |
+-------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_Project.Program.Main(String[] args) in C:\Users\SudeshSudeera\Documents\Full Stack Project\CMS Project\Program.cs:line 22"
+InnerException : null
+Source : "CMS Project"
+Application : "CMS_Project"
+MachineName : "DESKTOP-468MOP7"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.19045.0"
+Version : "6.0.22"
+UserName : "SudeshSudeera"
+ProcessId : 4216
+ProcessName : "CMS Project"
+-------------------------------------------------
+-------------------------------------------------
+Timestamp - 2023-10-14 10:21:31 PM +05:30 | Level - Error |
+-------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_Project.Program.Main(String[] args) in C:\Users\SudeshSudeera\Documents\Full Stack Project\CMS Project\Program.cs:line 22"
+InnerException : null
+Source : "CMS Project"
+Application : "CMS_Project"
+MachineName : "DESKTOP-468MOP7"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.19045.0"
+Version : "6.0.22"
+UserName : "SudeshSudeera"
+ProcessId : 11644
+ProcessName : "CMS Project"
+-------------------------------------------------
